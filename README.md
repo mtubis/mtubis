@@ -2,7 +2,7 @@
 
 Full-stack developer with many years of experience, specializing in PHP (proficient in Symfony and Laravel frameworks) and JavaScript, with recent experience in Python. In my free time, I am currently fascinated—like many others—by AI and ML.
 
-## Used technologies
+## Used technologies :hammer_and_wrench:
 
 **Programming Languages:** PHP and JavaScript (extensive experience), Python\
 **PHP Frameworks:** Symfony, Laravel\
@@ -14,7 +14,7 @@ Full-stack developer with many years of experience, specializing in PHP (profici
 **Linux:** Bash scripting, LAMP and Solr server administration\
 **Programming Tools:** Git, Docker, PHPStorm, WSL, Jira, Confluence
 
-## Linkedin 
+## Linkedin :mag_right:
 
 https://www.linkedin.com/in/mtubis/
 
