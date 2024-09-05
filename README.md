@@ -1,4 +1,8 @@
-## Hi there 👋
+## Magdalena Tubis 👋
+
+Full-stack developer with many years of experience, specializing in PHP (proficient in Symfony and Laravel frameworks) and JavaScript, with recent experience in Python. In my free time, I am currently fascinated—like many others—by AI and ML.
+
+Linkedin: https://www.linkedin.com/in/mtubis/
 
 <!--
 **mtubis/mtubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
