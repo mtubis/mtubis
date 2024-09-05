@@ -4,14 +4,14 @@ Full-stack developer with many years of experience, specializing in PHP (profici
 
 ## Used technologies
 
-**Programming Languages:** PHP and JavaScript (extensive experience), Python
-**PHP Frameworks:** Symfony, Laravel
-**Databases:** Design, advanced SQL, PL/pgSQL; experience with PostgreSQL, MariaDB, MySQL, MS SQL
-**Software Development Methodologies:** Scrum, Kanban
-**Common APIs:** Azure API, OpenAI API
-**Data Analysis:** NumPy, Pandas, Matplotlib (interests, courses, bootcamp, and personal experiments)
-**Machine Learning:** Scikit-Learn, PyTorch, LangChain, Llama, RAGs (interests, courses, bootcamp, and personal experiments)
-**Linux:** Bash scripting, LAMP and Solr server administration
+**Programming Languages:** PHP and JavaScript (extensive experience), Python__
+**PHP Frameworks:** Symfony, Laravel__
+**Databases:** Design, advanced SQL, PL/pgSQL; experience with PostgreSQL, MariaDB, MySQL, MS SQL__
+**Software Development Methodologies:** Scrum, Kanban__
+**Common APIs:** Azure API, OpenAI API__
+**Data Analysis:** NumPy, Pandas, Matplotlib (interests, courses, bootcamp, and personal experiments)__
+**Machine Learning:** Scikit-Learn, PyTorch, LangChain, Llama, RAGs (interests, courses, bootcamp, and personal experiments)__
+**Linux:** Bash scripting, LAMP and Solr server administration__
 **Programming Tools:** Git, Docker, PHPStorm, WSL, Jira, Confluence
 
 ## Linkedin 
