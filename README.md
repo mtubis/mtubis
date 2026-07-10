@@ -1,34 +1,71 @@
-# Magdalena Tubis 👋
+# Hi, I'm Magdalena Tubis 👋
 
-Full-stack developer with many years of experience, specializing in PHP (proficient in Symfony and Laravel frameworks) and JavaScript, with recent experience in Python. In my free time, I am currently fascinated—like many others—by AI and ML.
+Senior Backend / Full Stack Engineer with 14+ years of commercial experience building business-critical web applications, enterprise systems and API integrations.
 
-## Used technologies :hammer_and_wrench:
+My primary expertise is PHP (Symfony & Laravel), JavaScript and SQL. In recent years I have also been expanding into Python, AI-assisted software development and LLM-powered applications.
 
-**Programming Languages:** PHP and JavaScript (extensive experience), Python\
-**PHP Frameworks:** Symfony, Laravel\
-**Databases:** Design, advanced SQL, PL/pgSQL; experience with PostgreSQL, MariaDB, MySQL, MS SQL\
-**Software Development Methodologies:** Scrum, Kanban\
-**Common APIs:** Azure API, OpenAI API\
-**Data Analysis:** NumPy, Pandas, Matplotlib (interests, courses, bootcamp, and personal experiments)\
-**Machine Learning:** Scikit-Learn, PyTorch, LangChain, Llama, RAGs (interests, courses, bootcamp, and personal experiments)\
-**Linux:** Bash scripting, LAMP and Solr server administration\
-**Programming Tools:** Git, Docker, PHPStorm, WSL, Jira, Confluence
+I enjoy designing scalable backend systems, integrating external services, modernizing legacy applications and exploring how AI can improve both software development and the products we build.
 
-## Linkedin :mag_right:
+---
 
-https://www.linkedin.com/in/mtubis/
+## 🚀 Tech Stack
 
-<!--
-**mtubis/mtubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend
+- PHP (Symfony, Laravel)
+- Python
+- REST APIs, GraphQL, OpenAPI
+- OAuth2, JWT
 
-Here are some ideas to get you started:
+### Frontend
+- JavaScript
+- Vue.js
+- React
+- TypeScript (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases
+- PostgreSQL
+- MySQL / MariaDB
+- MS SQL
+- Redis
+
+### AI & Data
+- OpenAI API
+- RAG
+- LangChain
+- Pandas
+- NumPy
+- PyTorch
+- Claude Code
+- GitHub Copilot
+
+### DevOps & Cloud
+- Docker
+- Linux
+- Bash
+- GitHub Actions
+- Azure
+- Microsoft Graph API
+
+### Practices
+- DDD
+- SOLID
+- Clean Architecture
+- CQRS
+- PHPUnit
+- Git
+- Scrum
+
+---
+
+## 🌱 Currently learning
+
+- Agentic AI
+- LLM-powered applications
+- Python ecosystem
+- AI-assisted software engineering
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/mtubis/
